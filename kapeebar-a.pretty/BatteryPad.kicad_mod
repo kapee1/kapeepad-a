@@ -1,0 +1,13 @@
+(footprint "BatteryPad" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 -1.778) (layer "Dwgs.User") hide
+      (effects (font (size 1 1) (thickness 0.2)))
+    (tstamp ff9496e4-9ece-4494-a807-eb5d910449a2)
+  )
+  (fp_text value "v-" (at 1.88125 0.1625) (layer "F.SilkS")
+      (effects (font (size 0.8 0.8) (thickness 0.1)))
+    (tstamp c365cb50-4c1b-4753-aee5-4719c9c7608c)
+  )
+  (pad "1" thru_hole circle (at 0 0 270) (size 1.5 1.5) (drill 1) (layers "*.Cu" "*.SilkS" "*.Mask") (tstamp e8427fa1-ee51-439a-a4da-8ca7dccd98f4))
+)
