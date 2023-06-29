@@ -1,5 +1,7 @@
 # kapeepad-a
-**Macropad with Seeeduino Xiao BLE and EC-11 encoder **
+
+
+##  **Macropad with Seeeduino Xiao BLE and EC-11 encoder**
 
 
 * MX Switches
